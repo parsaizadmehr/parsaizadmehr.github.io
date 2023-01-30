@@ -30,7 +30,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: 'jekyll-theme-yat'
+# theme: 'jekyll-theme-yat'
+remote_theme: hydecorp/hydejack
 plugins:
   - jekyll-feed
 
